@@ -1,0 +1,6 @@
+Zeile 1
+Zeile 2
+Zeile 3
+OhneLNOhneLNZeile 4
+Zeile 5
+This is a JAVA program with 100 MB
